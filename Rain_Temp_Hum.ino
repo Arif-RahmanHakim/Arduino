@@ -8,6 +8,7 @@ Ayu Pujiastuti
 Muhammad Nurul Fadjri
 Muhammad Rifky Ramadhan
 Raina Sevira Agustin
+Muhammad Yusril Swandy .A
 */
 #include <ESP8266WiFi.h>
 #include <AntaresESP8266HTTP.h>
